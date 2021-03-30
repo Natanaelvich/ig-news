@@ -45,6 +45,12 @@ or
 - [FaunaDB](https://fauna.com/)
 - [Prismic CMS](https://prismic.io/)
 
+## License
+
+Distributed under the MIT license. See [LICENSE] for more information.
+
+---
+
 ## Author
 
 Make by Natanael Lima 👋🏽 contact!
