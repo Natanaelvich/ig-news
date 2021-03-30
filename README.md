@@ -47,7 +47,7 @@ or
 
 ## License
 
-Distributed under the MIT license. See [LICENSE] for more information.
+Distributed under the MIT license. See [LICENSE](LICENSE) for more information.
 
 ---
 
