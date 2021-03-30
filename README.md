@@ -1,6 +1,6 @@
 <h1 align='center'> IG NEWS 🚀</h1>
 
-### IG NEWS Project Web
+### Application for newsletter subscription with payment via stripe
 
 ---
 
