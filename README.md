@@ -7,14 +7,12 @@
 ## ScreenShots
 
 <p align='center'>
-
+ <img  src="https://user-images.githubusercontent.com/52014318/113154221-2b626c00-920e-11eb-9f80-95a687818f72.png">
 </p>
 
 ## Gifs
 
-<p align='center'>
 
-</p>
 
 ## Install
 
