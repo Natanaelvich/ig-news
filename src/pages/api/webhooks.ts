@@ -23,11 +23,11 @@ export const config = {
   },
 };
 
-const relevantEvents = new Set([
+const relevantEvents = [
   'checkout.session.completed',
   'customer.subscription.updated',
   'customer.subscription.deleted',
-]);
+];
 
 export default async (request: NextApiRequest, response: NextApiResponse) => {
   if (request.method === 'POST') {
@@ -48,7 +48,7 @@ export default async (request: NextApiRequest, response: NextApiResponse) => {
 
     const { type } = event;
 
-    if (relevantEvents.has(type)) {
+    if (relevantEvents.includes(type)) {
       try {
         switch (type) {
           case 'customer.subscription.updated':
