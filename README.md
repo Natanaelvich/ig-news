@@ -10,6 +10,11 @@
  <img  src="https://user-images.githubusercontent.com/52014318/113154221-2b626c00-920e-11eb-9f80-95a687818f72.png">
 </p>
 
+![image](https://user-images.githubusercontent.com/52014318/115161625-28bc9f00-a075-11eb-9012-7e3630f72de0.png)
+![image](https://user-images.githubusercontent.com/52014318/115161629-33773400-a075-11eb-8194-c19e9472db9a.png)
+![image](https://user-images.githubusercontent.com/52014318/115161637-425de680-a075-11eb-9b6b-2c1dba5333a9.png)
+
+
 ## Gifs
 
 
