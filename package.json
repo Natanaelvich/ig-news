@@ -18,6 +18,7 @@
     "sass": "^1.32.8",
     "@prismicio/client": "^4.0.0",
     "@stripe/stripe-js": "^1.13.2",
+    "identity-obj-proxy": "^3.0.0",
     "axios": "^0.21.1",
     "faunadb": "^4.1.2",
     "prismic-dom": "^2.2.5",
